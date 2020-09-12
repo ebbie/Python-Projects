@@ -4,4 +4,5 @@
 # ignore vscode folder
 .vscode
 
+#ignore test.py file
 test.py
