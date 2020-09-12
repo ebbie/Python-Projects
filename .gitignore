@@ -2,5 +2,5 @@
 .DS_store
 
 # ignore vscode folder
-.vscode/*
+.vscode/settings.json
 .vscode/settings.json
