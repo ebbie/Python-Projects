@@ -3,3 +3,5 @@
 
 # ignore vscode folder
 .vscode
+
+.test.py
